@@ -1,0 +1,34 @@
+header{
+    background-color:grey;
+    padding: 20px;
+}
+
+header > h1{
+    text-align: center;
+    color:white;
+
+}
+main{
+    background-color:grey;
+    padding: 1%;
+    display: flex;
+}
+main a {
+    display: flex;
+    color:white;
+}
+main a:hover{
+    color:grey;
+    background-color:white;
+}
+
+
+ .nav{
+     display: flex;
+     justify-content: center;
+     margin-right: 10%;
+ }
+ .nav-item{
+     display: flex;
+     align-items: center;
+ }
